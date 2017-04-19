@@ -21,7 +21,7 @@ $(function() {
         $('html, body').animate({
           scrollTop: target.offset().top
         }, 500);
-        window.history.pushState("","", this.hash.slice(1));
+        // window.history.pushState("","", this.hash.slice(1));
         return false;
       }
     }
