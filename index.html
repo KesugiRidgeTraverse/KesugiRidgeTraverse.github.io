@@ -178,54 +178,29 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
 </section>
 
 <div id="map_canvas"></div>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqPZqISkSuPMLHZu3qhd1si4-3Vf41q3c"></script>
+<div id="status"></div>
 <script>
-  var initMap = (function () {
-    var myLatlng = new google.maps.LatLng(62.749378,-150.1139267),
-        mapCenter = new google.maps.LatLng(62.749378,-150.1139267),
-        mapCanvas = document.getElementById('map_canvas'),
-        mapOptions = {
-          center: mapCenter,
-          zoom: 10,
-          scrollwheel: true,
-          draggable: true,
-          disableDefaultUI: false,
-          
-        },
-        map = new google.maps.Map(mapCanvas, mapOptions);
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
 
-    return {
-      init: function () {
-        map.set('styles', [{
-          featureType: 'landscape'
-        }]);
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map_canvas'), {
+          zoom: 11,
+          center: {lat: 41.876, lng: -87.624}
+        });
 
         var ctaLayer = new google.maps.KmlLayer({
           url: 'https://kesugiridgetraverse.github.io/gps/kesugi-ridge-traverse.kml',
+          suppressInfoWindows: false,
+          preserveViewport: false,
           map: map
         });
-        
-        
-        
-      }
-    };
-  }());
 
-  initMap.init();
-</script>
+        google.maps.event.addListener(ctaLayer, 'status_changed', function() {
+          console.log(ctaLayer);
+          document.getElementById('status').innerHTML = ctaLayer.getStatus();
+        });
+      }
+    </script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqPZqISkSuPMLHZu3qhd1si4-3Vf41q3c&callback=initMap"></script>
 
 </div>
 
