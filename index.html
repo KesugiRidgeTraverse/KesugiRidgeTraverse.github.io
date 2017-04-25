@@ -187,43 +187,36 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
         mapOptions = {
           center: mapCenter,
           zoom: 10,
-          scrollwheel: false,
+          scrollwheel: true,
           draggable: true,
           disableDefaultUI: false,
-          mapTypeId: google.maps.MapTypeId.TERRAIN
+          
         },
-        map = new google.maps.Map(mapCanvas, mapOptions),
-        contentString =
-          '<div id="content">'+
-          '<div id="siteNotice">'+
-          '</div>'+
-          '<h1 id="firstHeading" class="firstHeading">thoughtbot</h1>'+
-          '<div id="bodyContent"'+
-          '<p>Sveavägen 98</p>'+
-          '</div>'+
-          '</div>',
-        infowindow = new google.maps.InfoWindow({
-          content: contentString,
-          maxWidth: 300
-        });
+        map = new google.maps.Map(mapCanvas, mapOptions);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    return {
+      init: function () {
+        map.set('styles', [{
+          featureType: 'landscape'
+        }]);
 
         var ctaLayer = new google.maps.KmlLayer({
           url: 'https://kesugiridgetraverse.github.io/gps/kesugi-ridge-traverse.kml',
           map: map
         });
-
-    return {
-      init: function () {
-        map.set('styles', [{
-          featureType: 'landscape',
-          elementType: 'geometry',
-          stylers: [
-            { hue: '#ffff00' },
-            { saturation: 30 },
-            { lightness: 10}
-          ]}
-        ]);
-
         
         
         
