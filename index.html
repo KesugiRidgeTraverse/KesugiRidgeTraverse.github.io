@@ -178,6 +178,7 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
 </section>
 
 <div id="map_canvas"></div>
+<div id="map-status"></div>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqPZqISkSuPMLHZu3qhd1si4-3Vf41q3c"></script>
 <script>
   var initMap = (function () {
@@ -203,13 +204,23 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
           '</div>'+
           '</div>',
         infowindow = new google.maps.InfoWindow({
-          content: contentString,
+          content: "asd",
           maxWidth: 300
         }),
-        ctaLayer = new google.maps.KmlLayer({
-          url: 'http://kesugiridgetraverse.github.io/gps/kesugi-ridge-traverse.kml',
+        kmlLayer = new google.maps.KmlLayer({
+          url: 'http://kesugiridgetraverse.github.io/gps/kesugi-ridge-traverse.kml?ok=ok',
+          suppressInfoWindows: true,
           map: map
         });
+        kmlLayer.addListener('click', function(kmlEvent) {
+          var text = "lat " + kmlEvent.latLng.lat().toFixed(3) + " lng " + kmlEvent.latLng.lng().toFixed(3);
+          showInContentWindow(text);
+        });
+
+        function showInContentWindow(text) {
+          var sidediv = document.getElementById('map-status');
+          sidediv.innerHTML = text;
+        }
 
     return {
       init: function () {
@@ -223,6 +234,7 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
           ]}
         ]);
 
+        
         
         
         
