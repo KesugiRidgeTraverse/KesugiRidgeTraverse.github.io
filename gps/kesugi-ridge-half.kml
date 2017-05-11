@@ -4,6 +4,8 @@
     <Style id="half_traverse">
       <LineStyle>
         <color>ff1473ff</color>
+        <gx:outerColor>cc1473ff</gx:outerColor>
+        <gx:outerWidth>0.75</gx:outerWidth>
         <width>6</width>
       </LineStyle>
     </Style>

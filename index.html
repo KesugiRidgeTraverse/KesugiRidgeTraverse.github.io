@@ -207,12 +207,17 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
           content: "asd",
           maxWidth: 300
         }),
-        kmlLayer = new google.maps.KmlLayer({
-          url: 'http://kesugiridgetraverse.github.io/gps/kesugi-ridge-traverse.kml?as=isit',
+        
+        
+        
+        
+        
+        halfTraverseKmlLayer = new google.maps.KmlLayer({
+          url: 'http://kesugiridgetraverse.github.io/gps/kesugi-ridge-half.kml?asit=isit',
           suppressInfoWindows: true,
           map: map
         });
-        kmlLayer.addListener('click', function(kmlEvent) {
+        fullTraverseKmlLayer.addListener('click', function(kmlEvent) {
           var text = "lat " + kmlEvent.latLng.lat().toFixed(3) + " lng " + kmlEvent.latLng.lng().toFixed(3);
           showInContentWindow(text);
         });
