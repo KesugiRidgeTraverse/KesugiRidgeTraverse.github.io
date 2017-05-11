@@ -21,6 +21,7 @@
 
     <script src="/js/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="/js/navigation.js"></script>
+    <script type="text/javascript" src="/js/slideshow.js"></script>
 
 </head>
 
@@ -135,6 +136,39 @@
 
 <p>Point to point, starting at Little Coal Creek Trailhead and finishing at Byers Lake Campground. The course is approximately 30 miles. Good descriptions can be found in the hiking guides 55Ways to the Wilderness (5th edition) by Helen Nienhueser &amp; John Wolfe Jr. and Hiking Alaska by Dean Littlepage.</p>
 
+<div class="slideshow-slides course" tabindex="1" autofocus="autofocus">
+  
+  <figure>
+    <img src="/img/slide-1.jpg" width="100%" />
+    <figcaption>Race Finish</figcaption>
+</figure>
+
+  <figure>
+    <img src="/img/slide-2.jpg" width="100%" />
+    <figcaption>Close to Stonehenge Hill</figcaption>
+</figure>
+
+  <figure>
+    <img src="/img/slide-3.jpg" width="100%" />
+    <figcaption>Heading down the Cascade Trail</figcaption>
+</figure>
+
+
+</div>
+
+<script>
+var opts = {
+    auto : {
+        speed : 500000,
+        pauseOnHover : true
+    },
+    fullScreen : false,
+    swipe : true
+};
+makeSlideshow('.course', opts);
+</script>
+
+
 <h3 id="a-brief-course-description">A brief course description</h3>
 
 <p>Starting around 1400 feet, the Full Traverse trail (nearly 30 miles) climbs steadily to above tree line to a high, alpine ridge. The trail is marked with cairns in most places. There will also be flagging and/or pin flags in some key sections. About halfway, the Ermine Hill Trail comes in from the right (elevation 1,500 feet). After the junction, the trail again climbs above tree line until it descends 5 miles to Byers Lake via the Cascade Trail.</p>
@@ -152,11 +186,23 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
 
 <p>Once you pass the Ermine Hill intersection, you will climb up a hill and reach the trail seen below.</p>
 
-<p><img src="/img/vis-dir-1.jpg" alt="Just after Ermine Hill intersection" /></p>
+<div class="caption-image">
+  <figure>
+      <img src="/img/vis-dir-1.jpg" width="100%" />
+      <figcaption>Just after Ermine Hill intersection</figcaption>
+  </figure>
+</div>
+
 
 <p>You will go around the big rock formation (located on your right) and see two open rock &ldquo;doors&rdquo; (picture below).</p>
 
-<p><img src="/img/vis-dir-2.jpg" alt="Go left after passing through the rocks" /></p>
+<div class="caption-image">
+  <figure>
+      <img src="/img/vis-dir-2.jpg" width="100%" />
+      <figcaption>Go left after passing through the rocks</figcaption>
+  </figure>
+</div>
+
 
 <p>Go between the doors and head down and to the left. DO NOT take a right at the two large rocks. It is a dead end and will result in up to two hours of wasted time.</p>
 
@@ -207,16 +253,16 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
           content: "asd",
           maxWidth: 300
         }),
-        
-        
-        
-        
-        
-        halfTraverseKmlLayer = new google.maps.KmlLayer({
-          url: 'http://kesugiridgetraverse.github.io/gps/kesugi-ridge-half.kml?asit=isit',
+        fullTraverseKmlLayer = new google.maps.KmlLayer({
+          url: 'http://kesugiridgetraverse.github.io/gps/kesugi-ridge-traverse.kml?asit=isit',
           suppressInfoWindows: true,
           map: map
         });
+        
+        
+        
+        
+        
         fullTraverseKmlLayer.addListener('click', function(kmlEvent) {
           var text = "lat " + kmlEvent.latLng.lat().toFixed(3) + " lng " + kmlEvent.latLng.lng().toFixed(3);
           showInContentWindow(text);

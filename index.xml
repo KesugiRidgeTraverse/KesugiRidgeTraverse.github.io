@@ -39,6 +39,39 @@
 
 &lt;p&gt;Point to point, starting at Little Coal Creek Trailhead and finishing at Byers Lake Campground. The course is approximately 30 miles. Good descriptions can be found in the hiking guides 55Ways to the Wilderness (5th edition) by Helen Nienhueser &amp;amp; John Wolfe Jr. and Hiking Alaska by Dean Littlepage.&lt;/p&gt;
 
+&lt;div class=&#34;slideshow-slides course&#34; tabindex=&#34;1&#34; autofocus=&#34;autofocus&#34;&gt;
+  
+  &lt;figure&gt;
+    &lt;img src=&#34;http://kesugiridgetraverse.com/img/slide-1.jpg&#34; width=&#34;100%&#34; /&gt;
+    &lt;figcaption&gt;Race Finish&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+  &lt;figure&gt;
+    &lt;img src=&#34;http://kesugiridgetraverse.com/img/slide-2.jpg&#34; width=&#34;100%&#34; /&gt;
+    &lt;figcaption&gt;Close to Stonehenge Hill&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+  &lt;figure&gt;
+    &lt;img src=&#34;http://kesugiridgetraverse.com/img/slide-3.jpg&#34; width=&#34;100%&#34; /&gt;
+    &lt;figcaption&gt;Heading down the Cascade Trail&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;script&gt;
+var opts = {
+    auto : {
+        speed : 500000,
+        pauseOnHover : true
+    },
+    fullScreen : false,
+    swipe : true
+};
+makeSlideshow(&#39;.course&#39;, opts);
+&lt;/script&gt;
+
+
 &lt;h3 id=&#34;a-brief-course-description&#34;&gt;A brief course description&lt;/h3&gt;
 
 &lt;p&gt;Starting around 1400 feet, the Full Traverse trail (nearly 30 miles) climbs steadily to above tree line to a high, alpine ridge. The trail is marked with cairns in most places. There will also be flagging and/or pin flags in some key sections. About halfway, the Ermine Hill Trail comes in from the right (elevation 1,500 feet). After the junction, the trail again climbs above tree line until it descends 5 miles to Byers Lake via the Cascade Trail.&lt;/p&gt;
@@ -56,11 +89,23 @@ The Half Traverse trail (about 15.5 miles) follows the above route to its finish
 
 &lt;p&gt;Once you pass the Ermine Hill intersection, you will climb up a hill and reach the trail seen below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/vis-dir-1.jpg&#34; alt=&#34;Just after Ermine Hill intersection&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;caption-image&#34;&gt;
+  &lt;figure&gt;
+      &lt;img src=&#34;http://kesugiridgetraverse.com/img/vis-dir-1.jpg&#34; width=&#34;100%&#34; /&gt;
+      &lt;figcaption&gt;Just after Ermine Hill intersection&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;You will go around the big rock formation (located on your right) and see two open rock &amp;ldquo;doors&amp;rdquo; (picture below).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/vis-dir-2.jpg&#34; alt=&#34;Go left after passing through the rocks&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;caption-image&#34;&gt;
+  &lt;figure&gt;
+      &lt;img src=&#34;http://kesugiridgetraverse.com/img/vis-dir-2.jpg&#34; width=&#34;100%&#34; /&gt;
+      &lt;figcaption&gt;Go left after passing through the rocks&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Go between the doors and head down and to the left. DO NOT take a right at the two large rocks. It is a dead end and will result in up to two hours of wasted time.&lt;/p&gt;
 </description>
