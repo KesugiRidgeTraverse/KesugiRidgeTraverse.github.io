@@ -19,7 +19,6 @@ var makeSlideshow = function (el, options) {
                 this.el = el; // current slideshow container
                 this.$items = el.querySelectorAll(this.opts.selector); // a collection of all of the slides, caching for performance
                 this.numItems = this.$items.length; // total number of slides
-                console.log(this.$items[0]);
                 this.$items[0].classList.add('bss-show'); // add show class to first figure
                 this.injectControls(el);
                 this.addEventListeners(el);
