@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kesugi Ridge Traverse</title>
-    <link>http://kesugiridgetraverse.com/index.xml</link>
+    <link>http://kesugiridgetraverse.com/</link>
     <description>Recent content on Kesugi Ridge Traverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Mar 2017 00:25:22 -0800</lastBuildDate>
-    <atom:link href="http://kesugiridgetraverse.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://kesugiridgetraverse.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Race Info</title>
@@ -15,18 +17,12 @@
       <pubDate>Wed, 29 Mar 2017 00:25:22 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/race-info/race-info/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;What:&lt;/strong&gt; 7th Kesugi Ridge Traverse &amp;amp; 3rd Kesugi Ridge Half Traverse&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday June 22, 2019, 9 a.m.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Race Start:&lt;/strong&gt; Denali State Park, Little Coal Creek Trailhead (Mile 164 Parks Highway)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Entry Fee:&lt;/strong&gt; $60 on-line. Limited to 100 entrants (50 for each race).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registration:&lt;/strong&gt; begins April 1 at 9 a.m. at &lt;a href=&#34;https://ultrasignup.com/register.aspx?did=53535&#34;&gt;UltraSignup&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; Race director Matias Saari at &lt;a href=&#34;mailto:matiasmountain@gmail.com&#34;&gt;matiasmountain@gmail.com&lt;/a&gt; or cell phone &lt;a href=&#34;tel:907-903-8865&#34;&gt;907-529-4178&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>What: 7th Kesugi Ridge Traverse &amp;amp; 3rd Kesugi Ridge Half Traverse
+When: Saturday June 22, 2019, 9 a.m.
+Race Start: Denali State Park, Little Coal Creek Trailhead (Mile 164 Parks Highway)
+Entry Fee: $60 on-line. Limited to 100 entrants (50 for each race).
+Registration: begins April 1 at 9 a.m. at UltraSignup.
+Contact: Race director Matias Saari at matiasmountain@gmail.com or cell phone 907-529-4178</description>
     </item>
     
     <item>
@@ -35,85 +31,9 @@
       <pubDate>Wed, 29 Mar 2017 00:43:15 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/course/course/</guid>
-      <description>
-
-&lt;p&gt;The point-to-point &lt;strong&gt;Kesugi Full Traverse&lt;/strong&gt; starts at Little Coal Creek Trailhead and finishes at Byers Lake Campground. It is approximately 30 miles.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Kesugi Ridge Half Traverse&lt;/strong&gt; starts at Little Coal Creek Trailhead and finishes just beyond the Ermine Hill Trail Junction. It is approximately 14.2 miles. (Participants will then travel 3.5 miles at their own leisure to the Parks Highway via the Ermine Hill Trail).&lt;/p&gt;
-
-&lt;p&gt;Detailed descriptions can be found in the hiking guides 55 Ways to the Wilderness (5th edition) by Helen Nienhueser &amp;amp; John Wolfe Jr., Hiking Alaska by Dean Littlepage and Outside in the Interior by Kyle Joly.&lt;/p&gt;
-
-&lt;div class=&#34;slideshow-slides course&#34; tabindex=&#34;1&#34; autofocus=&#34;autofocus&#34;&gt;
-  
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/slide-1.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Byers Lake sign photo (no longer the finish): The trail is longer than advertised&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/slide-2.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Heading down the Cascade Trail&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/slide-3.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Close to Stonehenge Hill&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/kesugi-matias-harlow.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Matias Saari and Harlow Robinson approach Ermine Hill (Ray Hafen photo)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/kesugi-holly.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Holly Brooks amid the fall colors (Rob Whitney photo)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/kesugi-christie.jpeg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Christie Haupert strides out (Rob Whitney photo)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/vis-dir-1.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Just after Ermine Hill intersection&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-  &lt;figure&gt;
-    &lt;img src=&#34;http://kesugiridgetraverse.com/img/vis-dir-2.jpg&#34; width=&#34;100%&#34; /&gt;
-    &lt;figcaption&gt;Kesugi Half Traverse finish, &amp;#34;The Doors&amp;#34; &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/div&gt;
-
-&lt;script&gt;
-var opts = {
-    auto : {
-        speed : 5000,
-        pauseOnHover : true
-    },
-    fullScreen : false,
-    swipe : true
-};
-makeSlideshow(&#39;.course&#39;, opts);
-&lt;/script&gt;
-
-
-&lt;h3 id=&#34;a-brief-course-description&#34;&gt;A brief course description&lt;/h3&gt;
-
-&lt;p&gt;Located in Denali State Park, the Kesugi Ridge Traverse course starts at the Little Coal Creek Trailhead (Parks Highway Mile 163.9) and finishes 30 miles later at Byers Lake Campground (Mile 147).&lt;/p&gt;
-
-&lt;p&gt;Starting at an elevation of 1,400 feet, the trail climbs steadily in the opening four miles to an alpine ridge with a high point of 3,500 feet. The trail is marked with cairns in most places.&lt;/p&gt;
-
-&lt;p&gt;When visibility allows, views of the Eldridge Glacier and Denali, the largest peak in North America, are prominent.&lt;/p&gt;
-
-&lt;p&gt;Nearly halfway, the Ermine Hill Trail comes in from the right (elevation 2,300 feet). The &lt;strong&gt;Kesugi Ridge Half Traverse&lt;/strong&gt; (about 14.2 miles) ends a short distance uphill from this junction at a rock formation called &amp;ldquo;The Doors.&amp;rdquo; After their race, Half Traverse participants take the Ermine Hill Trail 3.5 miles back to the Parks Highway at their leisure. The Ermine Hill Trailhead is at Mile 156.5. A shuttle will return runners to Byers Lake Campground.&lt;/p&gt;
-
-&lt;p&gt;Beyond &amp;ldquo;The Doors&amp;rdquo;, the &lt;strong&gt;Full Traverse&lt;/strong&gt; descends to  1,500 feet before it climbs back above treeline, passes Skinny Lake and reaches almost 3,000 feet at Golog Point near Mile 20. Around Mile 25, the course begins a long, switchbacked descent to Byers Lake via the Cascade Trail. The course ends in the Byers Lake Campground (elevation 800 feet) with food, drinks and awards. The total elevation gain is 6,200 feet and elevation loss is 6,800 feet.
-Be aware this is not a race for beginners. Long-distance trail running experience is a must. Familiarity with the course is important. Past races have featured rain, snow, cold, and limited visibility. Sections of the course are extremely technical and can be swampy.&lt;/p&gt;
-</description>
+      <description>The point-to-point Kesugi Full Traverse starts at Little Coal Creek Trailhead and finishes at Byers Lake Campground. It is approximately 30 miles.
+The Kesugi Ridge Half Traverse starts at Little Coal Creek Trailhead and finishes just beyond the Ermine Hill Trail Junction. It is approximately 14.2 miles. (Participants will then travel 3.5 miles at their own leisure to the Parks Highway via the Ermine Hill Trail).
+Detailed descriptions can be found in the hiking guides 55 Ways to the Wilderness (5th edition) by Helen Nienhueser &amp;amp; John Wolfe Jr.</description>
     </item>
     
     <item>
@@ -122,9 +42,7 @@ Be aware this is not a race for beginners. Long-distance trail running experienc
       <pubDate>Wed, 29 Mar 2017 00:43:15 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/course/map/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://kesugiridgetraverse.com/img/kesugi-course-map-2017.pdf&#34;&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/kesugi-map-2017.jpg&#34; alt=&#34;Kesugi Ridge Course Map&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://kesugiridgetraverse.com/gps/kesugi-ridge-traverse.kml&#34;&gt;Download KML File for the course&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Download KML File for the course</description>
     </item>
     
     <item>
@@ -133,28 +51,7 @@ Be aware this is not a race for beginners. Long-distance trail running experienc
       <pubDate>Sun, 02 Apr 2017 23:15:22 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/race-info/requirements/</guid>
-      <description>
-
-&lt;h3 id=&#34;qualifying-trail&#34;&gt;Qualifying Trail&lt;/h3&gt;
-
-&lt;p&gt;Participants for the Full Traverse must have completed at least one of the following trails: Kesugi Ridge Trail, Crow Pass Crossing, Resurrection Pass Trail, Lost Lake, Matanuska Peak Challenge, Granite Tors, Angel Creek 50, Johnson Pass, Juneau&amp;rsquo;s Nifty 50 or some other comparable race or training run.
-Participants for the Half Traverse must have completed at least 15 miles of one of the above trails, or 15 miles of some other comparable race or training run.&lt;/p&gt;
-
-&lt;p&gt;If there is a question about whether you are qualified, consult with race director Matias Saari.&lt;/p&gt;
-
-&lt;h3 id=&#34;mandatory-gear&#34;&gt;Mandatory Gear&lt;/h3&gt;
-
-&lt;p&gt;Participants for each race must wear or carry the following gear: Windbreaker, long-sleeved shirt, pants or tights, hat, gloves, sustenance and water bottle (or hydration device), and race bib.&lt;/p&gt;
-
-&lt;h3 id=&#34;age-requirement&#34;&gt;Age Requirement&lt;/h3&gt;
-
-&lt;p&gt;Participants for each event must be at least 18 years old on race day.&lt;/p&gt;
-
-&lt;h3 id=&#34;time-cutoffs&#34;&gt;Time Cutoffs&lt;/h3&gt;
-
-&lt;p&gt;The Full Traverse has a time cutoff of 4 hours, 5 minutes for the midway point just beyond Ermine Hill Trail junction, and 9 hours, 10 minutes for the finish.
-The Half Traverse has a time cutoff of 4 hours, 5 minutes at the finish line.&lt;/p&gt;
-</description>
+      <description>Qualifying Trail Participants for the Full Traverse must have completed at least one of the following trails: Kesugi Ridge Trail, Crow Pass Crossing, Resurrection Pass Trail, Lost Lake, Matanuska Peak Challenge, Granite Tors, Angel Creek 50, Johnson Pass, Juneau&amp;rsquo;s Nifty 50 or some other comparable race or training run. Participants for the Half Traverse must have completed at least 15 miles of one of the above trails, or 15 miles of some other comparable race or training run.</description>
     </item>
     
     <item>
@@ -163,26 +60,7 @@ The Half Traverse has a time cutoff of 4 hours, 5 minutes at the finish line.&lt
       <pubDate>Sun, 02 Apr 2017 23:15:22 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/race-info/rules/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;All racers must be signed in at the Little Coal Creek Trailhead by &lt;strong&gt;8:45 a.m.&lt;/strong&gt; Race start is at 9 a.m. We will NOT meet on race day at Byers Lake. Carpooling to Little Coal Creek is necessary. If you stay at Byers Lake or in the area the night before, you are responsible for your transportation to the start.&lt;/li&gt;
-&lt;li&gt;Mandatory pre-race meeting &lt;strong&gt;8:45 a.m.&lt;/strong&gt; Bibs need to be picked up by this time.&lt;/li&gt;
-&lt;li&gt;Bibs can not be transferred.&lt;/li&gt;
-&lt;li&gt;All racers must check in with officials the morning of the race at Little Coal Creek, even if you picked up your bib the night before at Byers Lake Campground. We need to know who is starting so we can keep track of you.&lt;/li&gt;
-&lt;li&gt;Time cut-offs:
-
-&lt;ul&gt;
-&lt;li&gt;Full Traverse finish cut-off is 9 hours, 10 minutes.&lt;/li&gt;
-&lt;li&gt;Full Traverse racers must reach the checkpoint just beyond Ermine Hill Trail junction within 4 hours, 5 minutes. Any racer arriving thereafter must take the Ermine Hill Trail down to the Parks Highway. If someone continues despite this rule, they may be denied future Kesugi entry. Organizers will ensure a ride back to Byers Lake from the Ermine Hill Trailhead.&lt;/li&gt;
-&lt;li&gt;To receive an official finish, Half Traverse racers must arrive within 4 hours, 5 minutes.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;There are no aid stations.&lt;/strong&gt; There will be race officials at the midway checkpoint and a trail sweep, but no refreshments provided on the course. You are responsible for your own food and fluids. Drink water along the course at your own risk or bring a water purification device. There are plenty of available streams (one is named Giardia Creek). Friends and family can meet you at Ermine Hill Checkpoint with gear, food and drink.&lt;/li&gt;
-&lt;li&gt;Beware of wildlife and please do not wear headphones. Bears have been observed during the race and are common in this area. Consider bringing bear spray. Moose are also prevalent.&lt;/li&gt;
-&lt;li&gt;Mandatory gear includes the following: windbreaker, long-sleeved shirt, pants or tights, hat, gloves, sustenance, race bib, and water bottle. Please don’t duct tape everything together around your waist, thereby making it difficult to access. Also, bring legitimate gear: no Tyvek painters suits!&lt;/li&gt;
-&lt;li&gt;Stick to the trail and don’t travel overland. Please do not cut the switchbacks. This especially applies to the Cascade Trail that heads down to Byers Lake.&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t litter!&lt;/li&gt;
-&lt;li&gt;Knowledge of the trail is vital. All racers are strongly advised to have traveled the course prior to race day.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>All racers must be signed in at the Little Coal Creek Trailhead by 8:45 a.m. Race start is at 9 a.m. We will NOT meet on race day at Byers Lake. Carpooling to Little Coal Creek is necessary. If you stay at Byers Lake or in the area the night before, you are responsible for your transportation to the start. Mandatory pre-race meeting 8:45 a.m. Bibs need to be picked up by this time.</description>
     </item>
     
     <item>
@@ -191,184 +69,8 @@ The Half Traverse has a time cutoff of 4 hours, 5 minutes at the finish line.&lt
       <pubDate>Wed, 29 Mar 2017 00:43:15 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/faq/faq/</guid>
-      <description>
-
-&lt;h4 id=&#34;what-does-k-esugi-mean&#34;&gt;What does K’esugi mean?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;It means the Ancient One in Dena’ina. Traditionally the area was used as caribou hunting grounds.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;who-are-the-two-dave-johnstons&#34;&gt;Who are the two Dave Johnstons?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Dave Johnston the Elder (of Minus 148 Degrees fame) helped build the original trail in the mid-1970s, along with Pete Robinson, George Menard and the Youth Conservation Corps. It took 3-4 years to put in the basic trail. Brian Okonek had the idea to use Kesugi’s lateral moraine instead of some of the surrounding high country.&lt;/p&gt;
-
-&lt;p&gt;Dave Johnston the Younger (of Iditarod Trail Invitational fame), along with Andrea Hambach, created the Kesugi Ridge Traverse race in 2013.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;what-are-the-current-course-conditions&#34;&gt;What are the current course conditions?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Course conditions vary year-to-year. Participants who want to recon the course should not assume that a full traverse will be possible before race day because there may be  lingering snow.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;will-there-be-lots-of-snow-up-high&#34;&gt;Will there be lots of snow up high?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Snow depth varies year-to-year, from virtually none to lengthy snow patches that need to be crossed. Alaska State Parks says most of the snow generally melts from the trail by June 15.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;why-was-the-race-moved-up-to-june&#34;&gt;Why was the race moved up to June?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;On Sept. 12, 2015, the race featured hypothermia-inducing conditions (rain and sub-40-degree temperatures). I became race director in 2016 and moved the date to August 21; the weather was inclement but not quite hypothermia-inducing (high 40s and rain). In hopes of better weather, and wanting to get ahead of most other long Alaska running races, I moved it to late-June in 2017. Holding the race in July is not an option because Denali State Park is too busy then.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;do-i-have-to-bring-the-mandatory-gear-if-it-s-sunny-and-70-degrees-at-the-start&#34;&gt;Do I have to bring the mandatory gear if it’s sunny and 70 degrees at the start?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yes, weather in Alaska can change quickly and dramatically. Also, you may need the gear if you become lost or injured.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;why-are-there-no-aid-stations&#34;&gt;Why are there no aid stations?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Because Kesugi Ridge is a remote trail and hauling food and drink to the course is not feasible. Volunteers at are already hauling heavy packs with supplies to Ermine Hill Checkpoint.&lt;/p&gt;
-
-&lt;p&gt;A standard race pack has plenty of room for food, drink and emergency gear. Also, spectators are allowed to hand-off sustenance and drinks to racers.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;for-emergency-purposes-will-cell-phones-work-along-the-course&#34;&gt;For emergency purposes, will cell phones work along the course?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Cell coverage is spotty at best. Don’t rely on it. Course volunteers will use DeLorme inReach devices or Sat phones.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;can-i-start-before-9-a-m&#34;&gt;Can I start before 9 a.m.?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;No.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;why-does-the-half-traverse-cost-the-same-as-the-full-traverse&#34;&gt;Why does the Half Traverse cost the same as the Full Traverse?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Because the Half Traverse requires just as much organization, if not more, than the Full Traverse does.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;if-i-m-in-the-full-traverse-but-want-to-stop-at-the-half-traverse-finish-line-can-i-still-get-a-result&#34;&gt;If I’m in the Full Traverse but want to stop at the Half Traverse finish line, can I still get a result?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You can stop halfway, and are encouraged to if you’re having an especially tough day, are in danger of missing the final cutoff or are injured. But doing so will result in a DNF. The race director has learned that if you give people a bailout without penalty, some racers will take it even when there’s no good reason to stop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;if-i-finish-the-half-traverse-but-feel-good-and-want-to-keep-going-to-byers-lake-can-i&#34;&gt;If I finish the Half Traverse but feel good and want to keep going to Byers Lake, can I?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;No. The sweepers will already have their hands full with the number of Full Traverse participants. Sign up for the Full Traverse next year!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;can-the-sweepers-turn-me-back&#34;&gt;Can the sweepers turn me back?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yes, if they determine you are underprepared and unlikely to meet the cutoffs, they can turn you back at any time.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;what-if-i-want-to-keep-going&#34;&gt;What if I want to keep going?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You can’t. If you attempt to, you will not be allowed to participate at Kesugi in the future.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;can-i-wear-headphones&#34;&gt;Can I wear headphones?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Headphones are discouraged. Bears have been encountered at Kesugi in past races.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;can-i-bring-my-dog&#34;&gt;Can I bring my dog?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Racers cannot bring dogs. Spectators can bring dogs but need to have them under control.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;can-i-get-a-refund-if-i-decide-not-to-race-can-i-transfer-my-bib-to-a-friend&#34;&gt;Can I get a refund if I decide not to race? Can I transfer my bib to a friend?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;No and no.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;is-there-a-wait-list-for-those-who-didn-t-register-on-time&#34;&gt;Is there a wait list for those who didn’t register on time?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;No, the number of entrants has jumped dramatically from recent years so the race director will not attempt to fill the spots of those who drop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;should-i-let-the-race-director-know-if-i-am-unable-to-race&#34;&gt;Should I let the race director know if I am unable to race?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yes, please do. It helps our planning knowing how many people to expect.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;what-is-the-camping-situation&#34;&gt;What is the camping situation?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We have a group area for Friday and Saturday nights of race weekend. It is suitable for car/camper camping, but flat spots for tents are few. There is no charge. RVs may not stay here.
-If you wish to stay at the main Byers Lake Campground (fees apply), plan to arrive early because it typically fills to capacity on weekend nights.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;where-can-i-stay-if-i-don-t-camp-at-race-headquarters&#34;&gt;Where can I stay if I don’t camp at race headquarters?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Mary’s McKinley View Lodge (Mile 134.5) is one option. A fancier option is Mt. McKinley Princess Wilderness Lodge (Mile 133). There are also many pullouts along the highway where camping is possible. The new Kesugi Ken Campground (Mile 135.4) allows reservations for tent camping, RV camping and public use cabins.&lt;/p&gt;
-
-&lt;p&gt;Camping at the Little Coal Creek trailhead parking lot is not permitted.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;when-can-i-pick-up-my-race-bib&#34;&gt;When can I pick up my race bib?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You can get it at race headquarters Friday night or at the race start until 8:45 a.m. Saturday.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;do-i-need-to-check-in-at-byers-headquarters-on-saturday-morning&#34;&gt;Do I need to check in at Byers headquarters on Saturday morning?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;No. But you do need to check in at the start even if you’ve previously collected your bib.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;will-there-be-a-shuttle-to-the-start&#34;&gt;Will there be a shuttle to the start?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Mt. McKinley Princess Wilderness Lodge generously provided shuttles in 2017-18 that transported some participants to the start and we hope that will again be the case in 2019. The remainder will need to carpool there.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;will-the-half-traverse-finishers-be-shuttled-to-byers-once-they-reach-the-ermine-hill-trailhead&#34;&gt;Will the Half Traverse finishers be shuttled to Byers once they reach the Ermine Hill Trailhead?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yes, several volunteers will shuttle finishers to Byers (or to Little Coal Creek if necessary).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;will-there-be-swag&#34;&gt;Will there be swag?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yes, there will be an item of Kesugi swag for every participant and volunteer. There will also be prizes for the top performers as well as some randomly awarded prizes.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;will-there-be-beer&#34;&gt;Will there be beer?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Yes. 49th State Brewing Co. has signed on a sponsor and will keep us well supplied!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;what-are-the-course-records&#34;&gt;What are the course records?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Despite horrendous weather, Scott Patterson set the men’s record of 4:38:05 in 2015.
-Christy Marvin set the women&amp;rsquo;s record of 5:27:36 in 2018 en route to finishing 2nd overall.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>What does K’esugi mean?  It means the Ancient One in Dena’ina. Traditionally the area was used as caribou hunting grounds.
+ Who are the two Dave Johnstons?  Dave Johnston the Elder (of Minus 148 Degrees fame) helped build the original trail in the mid-1970s, along with Pete Robinson, George Menard and the Youth Conservation Corps. It took 3-4 years to put in the basic trail. Brian Okonek had the idea to use Kesugi’s lateral moraine instead of some of the surrounding high country.</description>
     </item>
     
     <item>
@@ -386,8 +88,7 @@ Christy Marvin set the women&amp;rsquo;s record of 5:27:36 in 2018 en route to f
       <pubDate>Wed, 29 Mar 2017 22:49:07 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/registration/registration/</guid>
-      <description>&lt;p&gt;Registration opens April 1, 2017 at &lt;a href=&#34;http://ultrasignup.com&#34;&gt;UltraSignup&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Registration opens April 1, 2017 at UltraSignup</description>
     </item>
     
     <item>
@@ -396,8 +97,7 @@ Christy Marvin set the women&amp;rsquo;s record of 5:27:36 in 2018 en route to f
       <pubDate>Wed, 29 Mar 2017 00:25:22 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/volunteers/volunteers/</guid>
-      <description>&lt;p&gt;The event needs a host of volunteers, including sweepers, shuttle drivers, burger flippers and result-takers. Anyone interested in volunteering should contact the race director. Volunteers will receive free entry for 2020, free camping, race swag and eternal gratitude.&lt;/p&gt;
-</description>
+      <description>The event needs a host of volunteers, including sweepers, shuttle drivers, burger flippers and result-takers. Anyone interested in volunteering should contact the race director. Volunteers will receive free entry for 2020, free camping, race swag and eternal gratitude.</description>
     </item>
     
     <item>
@@ -406,8 +106,7 @@ Christy Marvin set the women&amp;rsquo;s record of 5:27:36 in 2018 en route to f
       <pubDate>Wed, 29 Mar 2017 22:49:07 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/results/results/</guid>
-      <description>&lt;p&gt;Results for 2013-18 can be found on &lt;a href=&#34;https://ultrasignup.com/results_event.aspx?did=40082&#34;&gt;UltraSignup&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Results for 2013-18 can be found on UltraSignup</description>
     </item>
     
     <item>
@@ -416,74 +115,11 @@ Christy Marvin set the women&amp;rsquo;s record of 5:27:36 in 2018 en route to f
       <pubDate>Wed, 29 Mar 2017 00:25:22 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/sponsors/sponsors/</guid>
-      <description>&lt;div class=&#34;cards&#34;&gt;
-
-&lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-image&#34;&gt;
-    &lt;a href=&#34;http://www.alaskamountainrunners.com&#34;&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/logo-amr-2016.jpg&#34; alt=&#34;&#34; style=&#34;width:185px&#34;&gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-header&#34;&gt;
-    &lt;a href=&#34;http://www.alaskamountainrunners.com&#34;&gt;Alaska Mountain Runners&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-copy&#34;&gt;
-    &lt;p&gt;&lt;a href=&#34;http://www.alaskamountainrunners.com&#34;&gt;Check out the race calendar at www.alaskamountainrunners.com&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-image&#34;&gt;
-    &lt;a href=&#34;http://alaskasportshall.org/&#34;&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/logo-healthy-hall.jpg&#34; alt=&#34;&#34; style=&#34;&#34;&gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-header&#34;&gt;
-    &lt;a href=&#34;http://alaskasportshall.org/&#34;&gt;The Alaska Sports Hall of Fame and Healthy Futures program&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-copy&#34;&gt;
-    &lt;p&gt;&lt;a href=&#34;http://alaskasportshall.org/&#34;&gt;Helping keep Alaskans healthy&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-image&#34;&gt;
-    &lt;a href=&#34;http://www.usatf.org/&#34;&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/logo-usatf.jpg&#34; alt=&#34;&#34; style=&#34;width:250px&#34;&gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-header&#34;&gt;
-    &lt;a href=&#34;http://www.usatf.org/&#34;&gt;USATF&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-copy&#34;&gt;
-    &lt;p&gt;&lt;a href=&#34;http://www.usatf.org/&#34;&gt;The Kesugi Ridge Traverse &amp;amp; Half Traverse is a USATF sanctioned event.&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-image&#34;&gt;
-    &lt;a href=&#34;https://www.49statebrewing.com/&#34;&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/logo-49th-state.jpg&#34; alt=&#34;&#34; style=&#34;&#34;&gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-header&#34;&gt;
-    &lt;a href=&#34;https://www.49statebrewing.com/&#34;&gt;49th State Brewing Co.&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-copy&#34;&gt;
-    &lt;p&gt;&lt;a href=&#34;https://www.49statebrewing.com/&#34;&gt;Brewpubs in downtown Anchorage and Denali Park.&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-  &lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-image&#34;&gt;
-    &lt;a href=&#34;https://www.unitedpt.com/&#34;&gt;&lt;img src=&#34;http://kesugiridgetraverse.com/img/logo-upt-small.jpg&#34; alt=&#34;&#34; style=&#34;&#34;&gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-header&#34;&gt;
-    &lt;a href=&#34;https://www.unitedpt.com/&#34;&gt;United Physical Therapy&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;card-copy&#34;&gt;
-    &lt;p&gt;&lt;a href=&#34;https://www.unitedpt.com/&#34;&gt;Clinics in downtown Anchorage, Midtown Anchorage and South Anchorage.&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-</description>
+      <description>Alaska Mountain Runners  Check out the race calendar at www.alaskamountainrunners.com
+    The Alaska Sports Hall of Fame and Healthy Futures program  Helping keep Alaskans healthy
+    USATF  The Kesugi Ridge Traverse &amp;amp; Half Traverse is a USATF sanctioned event.
+    49th State Brewing Co.  Brewpubs in downtown Anchorage and Denali Park.
+    United Physical Therapy  Clinics in downtown Anchorage, Midtown Anchorage and South Anchorage.</description>
     </item>
     
   </channel>
