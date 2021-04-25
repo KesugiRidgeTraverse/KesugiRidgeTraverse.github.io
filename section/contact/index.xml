@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kesugi Ridge Traverse</title>
+    <link>http://kesugiridgetraverse.com/section/contact/</link>
+    <description>Recent content on Kesugi Ridge Traverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Mar 2017 23:36:05 -0800</lastBuildDate><atom:link href="http://kesugiridgetraverse.com/section/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://kesugiridgetraverse.com/section/contact/contact/</link>
+      <pubDate>Wed, 29 Mar 2017 23:36:05 -0800</pubDate>
+      
+      <guid>http://kesugiridgetraverse.com/section/contact/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

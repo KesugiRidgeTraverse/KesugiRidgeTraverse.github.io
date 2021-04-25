@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kesugi Ridge Traverse</title>
@@ -6,20 +6,7 @@
     <description>Recent content on Kesugi Ridge Traverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2017 23:15:22 -0800</lastBuildDate>
-    
-	<atom:link href="http://kesugiridgetraverse.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>http://kesugiridgetraverse.com/section/notice/covid/</link>
-      <pubDate>Sun, 02 Apr 2017 23:15:22 -0800</pubDate>
-      
-      <guid>http://kesugiridgetraverse.com/section/notice/covid/</guid>
-      <description>.covid a { font-size: 20px; } .covid a:link { color:red; text-decoration: none; } .covid a:visited { color:red; text-decoration: none; } .covid a:hover { color:red; text-decoration: none; } .covid a:active { color:red; text-decoration: underline; }  COVID-19 MITIGATION PLAN: CLICK HERE  Message to Racers June 20 — Registration and COVID-19 Details  Message to Racers Aug. 3 — Mitigation Plan/Refunds &amp; Deferrals Message to Racers Aug. 16 — Transportation/Camping/Hydration Message to Racers Aug.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Apr 2017 23:15:22 -0800</lastBuildDate><atom:link href="http://kesugiridgetraverse.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020 Race Recap and Results</title>
       <link>http://kesugiridgetraverse.com/section/race-info/results-2020/</link>
@@ -39,10 +26,11 @@ Patterson, a 28-year-old Olympic skier from Anchorage, completed the rugged 30-m
       
       <guid>http://kesugiridgetraverse.com/section/race-info/race-info/</guid>
       <description>What: 8th Kesugi Ridge Traverse
-When: August 29, 2020 — Wave 1: 9 a.m. (all men); Wave 2: 9:30 a.m. (all women)
+When: August 21, 2021
 Start Location: Denali State Park, Little Coal Creek Trailhead (Mile 164 Parks Highway)
 Entry Fee: $65 on-line (registration fee is included).
-Lottery Registration: Begins at 9 a.m. Monday, June 22 at UltraSignup and ends at 11:59 p.m. on Sunday, June 28. Limited to 85 total entrants. See registration requirements below.</description>
+Lottery Registration: Begins at 9 a.m. Monday, June 22 at UltraSignup and ends at 11:59 p.m. on Sunday, June 28. Limited to 85 total entrants. See registration requirements below.
+Contact: Race director Matias Saari at matiasmountain@gmail.com or cell phone 907-529-4178</description>
     </item>
     
     <item>
@@ -125,7 +113,9 @@ A 15-mile training run on the Turnagain Arm Trail (roundtrip between Potter and 
       <pubDate>Wed, 29 Mar 2017 22:49:07 -0800</pubDate>
       
       <guid>http://kesugiridgetraverse.com/section/results/results/</guid>
-      <description>2019 Results:
+      <description>2020 Results
+Ultrasignup Results
+2019 Results:
 30 miler with splits
 Kesugi Half Results
 Results for 2013-18 can be found on UltraSignup</description>
