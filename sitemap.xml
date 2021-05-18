@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kesugiridgetraverse.com/section/race-info/results-2020/</loc>
-    <lastmod>2017-03-29T00:25:22-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kesugiridgetraverse.com/section/race-info/race-info/</loc>
     <lastmod>2017-03-29T00:25:22-08:00</lastmod>
   </url>
@@ -15,6 +10,11 @@
   <url>
     <loc>http://kesugiridgetraverse.com/section/race-info/rules/</loc>
     <lastmod>2017-04-02T23:15:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kesugiridgetraverse.com/section/race-info/results-2020/</loc>
+    <lastmod>2017-03-29T00:25:22-08:00</lastmod>
   </url>
   
   <url>
